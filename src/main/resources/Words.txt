@@ -10,6 +10,9 @@ Pencil
 Airport	
 Guitar	
 Piano
+Retirement
+Contraband
+Friendship
 Ambulance	
 Hair	
 Pillow
